@@ -10,7 +10,7 @@ LoginTest
     input text      id:identifierId        preethi.p@terralogic.com
     click element   class:VfPpkd-vQzf8d
     Sleep           5s
-    input text      name:password        @str@L18
+    input text      name:password        @str@L24
     click element   class:VfPpkd-vQzf8d
     sleep           5s
     Capture Page Screenshot
